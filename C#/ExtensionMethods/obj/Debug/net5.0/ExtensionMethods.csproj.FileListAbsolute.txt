@@ -1,0 +1,11 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\refint\ExtensionMethods.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll

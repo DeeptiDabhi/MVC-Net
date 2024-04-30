@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\CrudOperationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD23504-E9A1-4D19-A1FE-4481DFAF798E}|CrudOperationMVC\\CrudOperationMVC.csproj|c:\\users\\administrator\\onedrive\\desktop\\rise learning\\mvc application\\crudoperationmvc\\crudoperationmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD23504-E9A1-4D19-A1FE-4481DFAF798E}|CrudOperationMVC\\CrudOperationMVC.csproj|solutionrelative:crudoperationmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD23504-E9A1-4D19-A1FE-4481DFAF798E}|CrudOperationMVC\\CrudOperationMVC.csproj|c:\\users\\administrator\\onedrive\\desktop\\rise learning\\mvc application\\crudoperationmvc\\crudoperationmvc\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD23504-E9A1-4D19-A1FE-4481DFAF798E}|CrudOperationMVC\\CrudOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\CrudOperationMVC\\CrudOperationMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudOperationMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\CrudOperationMVC\\CrudOperationMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudOperationMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:49:02.295Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\CrudOperationMVC\\CrudOperationMVC\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "CrudOperationMVC\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\CrudOperationMVC\\CrudOperationMVC\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "CrudOperationMVC\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T15:27:33.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

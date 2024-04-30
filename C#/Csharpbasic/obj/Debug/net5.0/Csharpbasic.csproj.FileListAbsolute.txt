@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.runtimeconfig.dev.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\bin\Debug\net5.0\Csharpbasic.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\refint\Csharpbasic.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\Csharpbasic.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Lrn\C#\Csharpbasic\obj\Debug\net5.0\ref\Csharpbasic.dll

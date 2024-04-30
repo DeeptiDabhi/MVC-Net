@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.runtimeconfig.dev.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\bin\Debug\net5.0\ConLINQ1.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\refint\ConLINQ1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ConLINQ1.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLINQ1\obj\Debug\net5.0\ref\ConLINQ1.dll

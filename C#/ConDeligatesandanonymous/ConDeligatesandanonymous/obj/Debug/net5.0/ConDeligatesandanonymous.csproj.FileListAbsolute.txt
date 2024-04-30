@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.runtimeconfig.dev.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\bin\Debug\net5.0\ConDeligatesandanonymous.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\refint\ConDeligatesandanonymous.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ConDeligatesandanonymous.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConDeligatesandanonymous\ConDeligatesandanonymous\obj\Debug\net5.0\ref\ConDeligatesandanonymous.dll

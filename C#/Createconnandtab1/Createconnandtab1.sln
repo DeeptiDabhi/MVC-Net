@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Createconnandtab1", "Createconnandtab1\Createconnandtab1.csproj", "{4C58DDF3-D51E-4E51-A831-91D291239E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6836D43E-18E5-41E0-B0A6-5EC66480EF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C58DDF3-D51E-4E51-A831-91D291239E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C58DDF3-D51E-4E51-A831-91D291239E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C58DDF3-D51E-4E51-A831-91D291239E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C58DDF3-D51E-4E51-A831-91D291239E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6836D43E-18E5-41E0-B0A6-5EC66480EF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6836D43E-18E5-41E0-B0A6-5EC66480EF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6836D43E-18E5-41E0-B0A6-5EC66480EF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6836D43E-18E5-41E0-B0A6-5EC66480EF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA5FE9F-9C38-4718-854B-ACC7B1DFF1FE}
+	EndGlobalSection
+EndGlobal

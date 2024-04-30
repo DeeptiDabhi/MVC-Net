@@ -1,0 +1,21 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace in Csharp.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace in Csharp.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace in Csharp.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace csharp1.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace csharp1.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace csharp1.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace csharp1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace csharp1.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace in Csharp.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\bin\Debug\net8.0\Namespace in Csharp.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespac.1A915079.Up2Date
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\refint\Namespace csharp1.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\Namespace csharp1.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\Namespace csharp1\obj\Debug\net8.0\ref\Namespace csharp1.dll

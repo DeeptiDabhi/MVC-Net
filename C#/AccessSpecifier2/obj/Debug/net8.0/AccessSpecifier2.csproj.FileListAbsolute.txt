@@ -1,0 +1,4 @@
+C:\Users\Administrator\OneDrive\Desktop\Self Learning\C #\AccessSpecifier2\obj\Debug\net8.0\AccessSpecifier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Self Learning\C #\AccessSpecifier2\obj\Debug\net8.0\AccessSpecifier2.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Self Learning\C #\AccessSpecifier2\obj\Debug\net8.0\AccessSpecifier2.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Self Learning\C #\AccessSpecifier2\obj\Debug\net8.0\AccessSpecifier2.csproj.CoreCompileInputs.cache

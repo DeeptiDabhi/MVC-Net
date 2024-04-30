@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1BCAA5-6EA1-4D77-AB26-291004BB95C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\onedrive\\desktop\\rise learning\\mvc application\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1BCAA5-6EA1-4D77-AB26-291004BB95C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1BCAA5-6EA1-4D77-AB26-291004BB95C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\onedrive\\desktop\\rise learning\\mvc application\\webapplication1\\webapplication1\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1BCAA5-6EA1-4D77-AB26-291004BB95C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\WebApplication1\\WebApplication1\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\WebApplication1\\WebApplication1\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:23:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Rise Learning\\MVC Application\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:47:20.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

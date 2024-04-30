@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.exe
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.runtimeconfig.dev.json
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\bin\Debug\net5.0\ConLambdaDelegate.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\refint\ConLambdaDelegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.pdb
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ConLambdaDelegate.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Rise Learning\C#\ConLINQ1\ConLambdaDelegate\obj\Debug\net5.0\ref\ConLambdaDelegate.dll
